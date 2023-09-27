@@ -7,3 +7,9 @@ Para atender às necessidades exclusivas do seu negócio e permanecer competitiv
 Mas gerenciar seus serviços e dados baseados em nuvem em vários provedores pode parecer complicado. Como cada conjunto de serviços em nuvem vem com suas próprias ferramentas, você provavelmente enfrentará maior complexidade e custos. Novas soluções de gerenciamento e métodos de entrega podem ajudar a otimizar o desempenho, controlar custos, fornecer acesso rápido à nuvem e proteger sua combinação de aplicativos, ambientes e dados, estejam eles dentro do seu data center ou na nuvem.
 
 ### Solução
+
+### Diferencial
+
+
+### Protótipo
+https://www.figma.com/file/4ONB4TJbtZd5zS5dM1lobe/multicloud?type=design&node-id=0%3A1&mode=design&t=gVOg47ggf8seHGMA-1

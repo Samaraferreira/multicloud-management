@@ -9,7 +9,7 @@ Mas gerenciar seus serviços e dados baseados em nuvem em vários provedores pod
 Gerenciamento de infraestrutura, análise de custos, escalabilidade e disponibilidade em uma plataforma no-code e multi-cloud. Simplificada e unificada!
 
 ### Diferencial
-As soluções do mercado exigem um time especializado para gerenciá-las, sendo inviável para pequenas e médias empresas. Além de não oferecerem todos os serviços de forma integrada.
+As soluções do mercado exigem um time especializado para gerenciá-las, sendo inviável para pequenas e médias empresas. Além de não oferecerem todos os serviços de forma integrada. Em nosso plataforma sua experiência será simples, rápida e segura!
 
 ### Protótipo
 ![image](prototipo.png)
